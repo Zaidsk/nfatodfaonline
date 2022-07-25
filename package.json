@@ -1,13 +1,13 @@
 {
-  "name": "nfa-to-dfa",
+  "node": "0.0.2",
+  "name": "nfatodfa",
   "type": "module",
-  "version": "0.0.2",
   "description": "An application for visually converting NFAs to DFAs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/joeylemon/nfa-to-dfa"
+    "url": "https://github.com/Zaidsk/nfatodfaonline"
   },
-  "author": "Alex Klibisz, Connor Minton, Camille Williford, Joey Lemon, Lauren Proctor",
+  "author": "Zaid",
   "scripts": {
     "start": "browser-sync start -s -f src --no-notify --host localhost --port 8000",
     "test": "mocha --require should --global global,document 'src/js/test/*.test.js'",
