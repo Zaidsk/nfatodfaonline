@@ -26,8 +26,8 @@
   },
   "dependencies": {},
   
-   "engines" : { 
-    "npm" : ">=7.0.0",
-    "node" : ">=16.0.0"
+    "engines": {
+    "npm": ">=6.0.0",
+    "node": ">=10.0.0"
   }
 }
