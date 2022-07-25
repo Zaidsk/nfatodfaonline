@@ -1,5 +1,5 @@
 {
-  "node": "0.0.2",
+  "version": "0.0.2",
   "name": "nfatodfa",
   "type": "module",
   "description": "An application for visually converting NFAs to DFAs",
@@ -25,4 +25,9 @@
     "should": "^13.2.3"
   },
   "dependencies": {}
+  
+   "engines" : { 
+    "npm" : ">=7.0.0",
+    "node" : ">=16.0.0"
+  }
 }
